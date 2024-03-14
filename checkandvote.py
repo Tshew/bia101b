@@ -9,6 +9,7 @@
     
 user = input("enter your age: ")
 userAge = int(user)
+
 if userAge >= 18:
     print('You can vote')
 else:
