@@ -15,3 +15,6 @@ print(array1)
 #getting number of elements in an array 
 no_of_elements = len(array1)
 print(no_of_elements)
+
+#slicing
+
